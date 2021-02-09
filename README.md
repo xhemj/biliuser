@@ -21,7 +21,7 @@ https://bii.now.sh/陈睿
 
 例如你想跳转到`哔哩哔哩弹幕网`的首页，你发现：
 
-![](https://i.loli.net/2021/02/09/jCvDoh5FRNbZkKy.jpg)
+![bilibili](https://i.loli.net/2021/02/09/3SipxDEvojsUkYI.png)
 
 搜索`bilibili`时它排在第一，
 所以你可以直接进入：
